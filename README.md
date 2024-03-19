@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ali Haider and I'm a Front-End Web Developer, from Pakistan.</h2>
+<h1 align="left">Hi 👋! My name is Ali Haider and I'm a Front-End Web Developer, from Pakistan.</h1>
 
 ###
 
