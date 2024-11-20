@@ -1,7 +1,3 @@
-![👋 Hi, my name is Ali Haider]
-
-![Profile views](https://komarev.com/ghpvc/?username=ALIHAIDERTURI&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
