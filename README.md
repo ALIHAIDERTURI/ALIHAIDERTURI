@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-         Hi Ali Here👋
+         Hi I am a Full-stack Developer (Backend Leaned).
       </h1>
     </summary>
   </ul>
