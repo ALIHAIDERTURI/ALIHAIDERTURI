@@ -1,9 +1,8 @@
-
-<div align="center">
-  <h1>Hi, I'm a Full Stack Engineer (Backend Leaning).</h1>
+ <div align="center">
+  <h1>Hi, I'm a Full Stack & DevOps Engineer (Backend Leaning).</h1>
   <p>
-    Building scalable backend systems, real-time applications,
-    and AI-powered products.
+    Building scalable backend systems, deploying cloud applications,
+    and automating infrastructure and delivery workflows.
   </p>
 </div>
 
@@ -14,7 +13,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,gcp,docker,terraform&perline=8" alt="Databases and Cloud" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,gcp,azure,docker,terraform&perline=9" alt="Databases, Cloud and Infrastructure" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,nginx,bash,githubactions&perline=4" alt="DevOps and Infrastructure Tools" />
 </p>
 
 <p align="center">
